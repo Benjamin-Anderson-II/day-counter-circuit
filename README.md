@@ -1,6 +1,5 @@
-# day-counter
-SystemVerilog code that, when simulated create the circuit necessary to design a clock.
+# Daily Stopwatch Circuit
 
-This is for Lab 5 in ECE 272 at Oregon State University
-
-##### The top level file is Clock.sv
+> This code is designed for a DE10-Lite. The circuit described is a stopwatch that resets every 24 hours. The time is displayed on the seven segment displays on the side of the board.
+>
+> A detailed breakdown of the circuit is provided in the PDF found in the repository.
